@@ -1,7 +1,7 @@
 # [IBM_MACHINE_LEARNING_PROFESSIONAL_CERTIFICATE](https://www.coursera.org/professional-certificates/ibm-machine-learning)
 
 ****
-<img height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUsJ5ra9vXA6JP09LiDaU_oQGkHk9ALcNivtX4iyiG9g&s.png">
+<img height="100" src="https://user-images.githubusercontent.com/67054356/132362689-31859a26-5d52-4eff-a4c4-ee6a8fd2f16c.png">
 
 
 |No.|COURSE|STATUS|
